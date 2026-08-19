@@ -71,7 +71,7 @@ contactForm.addEventListener("submit", function (event) {
     const message = document.getElementById("message").value;
 
 
-    const phoneNumber = "256700000000";
+    const phoneNumber = "+256777305010";
 
 
     const whatsappMessage =
